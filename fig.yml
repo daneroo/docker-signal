@@ -1,3 +1,7 @@
-loop:
+loopPython:
   build: .
   command: python loop.py
+
+loopShell:
+  build: .
+  command: ./loop.sh
