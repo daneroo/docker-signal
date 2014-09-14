@@ -1,0 +1,3 @@
+loop:
+  build: .
+  command: python loop.py
