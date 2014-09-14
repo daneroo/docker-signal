@@ -5,6 +5,8 @@ When issuing the commands
 
 The example signal handler code in `src/loop.py` demonstrates how one might handle trapping the SIGTERM signal to terminate our runloop correctly.
 
+The example in `src/loop.sh` does something similar for a bash script.
+
 When running with fig:
 
     fig build
